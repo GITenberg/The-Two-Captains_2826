@@ -1,0 +1,33 @@
+_repo: The-Two-Captains_2826
+_version: 0.0.1
+creator:
+  author:
+    agent_name: La Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de
+    aliases:
+    - Fouqué, Lamotte
+    - Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de La
+    - Motte-Fouque, Friedrich Heinrich Karl, Freiherr de La
+    birthdate: 1777
+    deathdate: 1843
+    gutenberg_agent_id: '1045'
+    url: http://www.gutenberg.org/2009/agents/1045
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_de_la_Motte_Fouqué
+description: ''
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2826'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knights and knighthood -- Fiction'
+- !lcsh 'Spain -- History -- Conquest of Tunis, 1535 -- Fiction'
+- !lcsh 'Germany -- History -- Reformation and Counter-Reformation, 1517-1618 -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Charles V, Holy Roman Emperor, 1500-1558 -- Fiction'
+- !lcsh 'German fiction -- Translations into English'
+- GITenberg
+title: The Two Captains
+url: http://www.gutenberg.org/ebooks/2826
